@@ -1,0 +1,47 @@
+{
+  "S33513": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Sebastian Rottler, Jodbadstraße 11, 87477 Sulzberg, Deutschland",
+    "receiver": "Andreas Simmler, Unterzeller Weg 16, 88430 Rot an der Rot, Deutschland",
+    "price": "6.000,00 €",
+    "description": "Hersteller: Lumag<br>Typ: SSA500GH PRO/S Hydraulisch Sägespaltautomat<br>S.N: 0501500117<br>Baujahr: 2023<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Andreas Simmler<br>Unterzeller Weg 16<br>88430 Rot an der Rot<br>Deutschland<br>Telefon: +49 1515 6008492",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "04.02.2026",
+    "deliveryDate": "10.02.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
