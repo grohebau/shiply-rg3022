@@ -1,6 +1,6 @@
 {
   "S33513": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Sebastian Rottler, Jodbadstraße 11, 87477 Sulzberg, Deutschland",
     "receiver": "Andreas Simmler, Unterzeller Weg 16, 88430 Rot an der Rot, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "04.02.2026",
-    "deliveryDate": "10.02.2026",
+    "deliveryDate": "10.02.2026, 15:30 Uhr",
     "pickup": {
-      "street": "Hegenheimer Str. 15",
-      "postal_code": "79576",
-      "city": "Weil am Rhein",
-      "country": "Deutschland",
+      "street": "Fegistrasse 5",
+      "postal_code": "8957",
+      "city": "Spreitenbach",
+      "country": "Schweiz",
       "lat": "",
       "lng": ""
     },
